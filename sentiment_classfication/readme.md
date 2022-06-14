@@ -111,3 +111,6 @@ bilstm模型:`bilstm-test/model.py`
 #### 2、损失函数：交叉熵损失函数
 
 参考：[CrossEntropyLoss — PyTorch 1.11.0 documentation](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)
+
+## 三、使用n-gram语言模型与随机森林分类器进行分类
+### 1、文件位置：n-gram
